@@ -1,7 +1,7 @@
 #ifndef NAMED_VECTOR_H
 #define NAMED_VECTOR_H
 
-#include "my_vec.h"
+#include "../2/my_vec.h"
 #include <iostream>
 
 class named_vector

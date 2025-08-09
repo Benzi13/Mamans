@@ -1,7 +1,7 @@
 #ifndef ALL_VECS_H
 #define ALL_VECS_H
 #include "named_vector.h"
-#include "my_vec.h"
+#include "../2/my_vec.h"
 #include <list>
 #include <string>
 class all_vecs

@@ -32,16 +32,8 @@ int main()
     vectors.addVec(named_vector(41, 25, 6, "Naftali"));
     vectors.addVec(named_vector(2, 2, 88, "Ayelet"));
 
-    try
-    {
-        my_vector v = vectors.getVecByName("Vered");
-        v.print_vector();
-    }
-    catch (const std::runtime_error &e)
-    {
-        std::cerr << e.what() << std::endl;
-    }
+    my_vector v = vectors.getVecByName("Vered");
+    v.print_vector();
 
     return 0;
-
 }
