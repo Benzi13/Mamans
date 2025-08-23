@@ -8,10 +8,10 @@ organization.
 
 ## 📂 File Structure
 
--   **Question 1.a** → `words-b.py`\
--   **Question 1.b** → `o-list.py`\
--   **Question 2** → `fruit.py`\
--   **Question 3.a** → `pros.py`\
+-   **Question 1.a** → `words-b.py`
+-   **Question 1.b** → `o-list.py`
+-   **Question 2** → `fruit.py`
+-   **Question 3.a** → `pros.py`
 -   **Question 3.b** → `meta.py`
 
 ------------------------------------------------------------------------
