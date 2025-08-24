@@ -35,7 +35,7 @@ python words-b.py
 
 ## ✨ Notes
 
--   Every file corresponds to one exercise from the assignment.\
+-   Every file corresponds to one exercise from the assignment.
 -   Code is self-contained, with no external dependencies beyond
-    standard Python.\
+    standard Python.
 -   Scripts are organized for easy navigation and testing.
